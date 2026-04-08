@@ -5,6 +5,9 @@ that runs **without Python pre-installed** on the target machine.
 
 ---
 
+<img width="902" height="772" alt="Screenshot" src="https://github.com/user-attachments/assets/7d204053-bf5f-4e76-8c4b-edfda580d7d5" />
+
+
 ## Project layout
 
 ```
